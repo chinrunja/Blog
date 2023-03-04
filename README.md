@@ -4,7 +4,14 @@
 
 ## 目录
 
-1. [Markdown 语法](https://github.com/chinrunja/Blog/issues/1)
+1. [Markdown 语法](https://github.com/chinrunja/Blog/issues/1) [^1] [^2]
+
+[^1]: [Markdown 基本语法](https://markdown.com.cn/basic-syntax/)
+[^2]: [Markdown 扩展语法](https://markdown.com.cn/extended-syntax/)
+
+2. [Git 常用指令](https://github.com/chinrunja/Blog/issues/2) [^3]
+
+[^3]: [Pro Git 中文版（第二版）](https://www.progit.cn/)
 
 ## 勘误及提问
 
